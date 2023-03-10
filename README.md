@@ -24,13 +24,13 @@ to stdout. Until this project is released, the best way to use this is to run
 the following within the repo:
 
 ```shell
-curl -fsSL https://raw.githubusercontent.com/kubernetes-sigs/ingress2gateway/main/tools/hack/install.sh | bash 
+curl -fsSL https://raw.githubusercontent.com/Xunzhuo/ingress2gateway/main/tools/hack/install.sh | bash 
 ```
 
 ## QuickStart
 
 ```shell
-curl -fsSL https://raw.githubusercontent.com/kubernetes-sigs/ingress2gateway/main/examples/demo.yaml | i2gw translate --mode=local -f -
+curl -fsSL https://raw.githubusercontent.com/Xunzhuo/ingress2gateway/main/examples/demo.yaml | i2gw translate --mode=local -f -
 ```
 
 ## Development
