@@ -22,3 +22,9 @@ go.work
 
 # Custom for this repo
 /tmp
+
+_output/
+
+bin/
+
+coverage.xml
